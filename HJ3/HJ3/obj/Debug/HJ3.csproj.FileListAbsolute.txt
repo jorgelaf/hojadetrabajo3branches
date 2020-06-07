@@ -1,0 +1,7 @@
+C:\Users\jlafo\source\repos\HJ3\HJ3\bin\Debug\HJ3.exe.config
+C:\Users\jlafo\source\repos\HJ3\HJ3\bin\Debug\HJ3.exe
+C:\Users\jlafo\source\repos\HJ3\HJ3\bin\Debug\HJ3.pdb
+C:\Users\jlafo\source\repos\HJ3\HJ3\obj\Debug\HJ3.csprojAssemblyReference.cache
+C:\Users\jlafo\source\repos\HJ3\HJ3\obj\Debug\HJ3.csproj.CoreCompileInputs.cache
+C:\Users\jlafo\source\repos\HJ3\HJ3\obj\Debug\HJ3.exe
+C:\Users\jlafo\source\repos\HJ3\HJ3\obj\Debug\HJ3.pdb
